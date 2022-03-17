@@ -1,6 +1,6 @@
 {
   "name": "conventional-commits-demo",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "index.js",
   "author": "Long Nguyen <nguyen_van_long@humancrest.co.jp>",
   "license": "MIT",
